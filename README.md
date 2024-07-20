@@ -25,6 +25,9 @@ As we do not have the device to correctly calculate the indoor temperature, we d
 
 Finally we train them through a deep learning model to predict the inhouse temperature. All the data cleaning process will be performed with pyspark to correctly stimulate the speed when the data scale up in memories
 
+![alt text](https://github.com/plctrung26/University-Projects/blob/main/images/project3.png?raw=true)
+
 ## Project 4: Real-time ECG classification
 ECG(electrodiagram) measures human heartbeat and analyse them may help patients and doctors to detect anomalies of a disease. So we decided to perform a classification on ECG data to predict anomalies in real-time. In this project, we want to make the prediction global and distributed to be suitable for real-time. That is why we use Aiven cloud as a platform (because it is free) together with Kafka to stimulate the data process sent from place A to place B to be predicted.
 
+![alt text](https://github.com/plctrung26/University-Projects/blob/main/images/project4.png?raw=true)
