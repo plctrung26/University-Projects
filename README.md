@@ -7,6 +7,8 @@ In this project, our team includes 3 people downloaded a dataset about British a
 Our team performed a labeling process which includes creating guidelines, testing the annotators performance and labeling the comments into three sentiments labels: 0 - Negative, 1 - Positive ,2 - Neutral
 After that, we trained a model with the comments and ratings at input and the labels at the output.
 
+![alt text](https://github.com/plctrung26/University-Projects/blob/main/images/image.jpg?raw=true)
+
 ## Project 2: Predict Casio Watch Price
 In this project, we perform data collection, data cleaning, data analysis, visualizing the data and running models.
 
