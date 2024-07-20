@@ -18,6 +18,8 @@ As the collection step we will combine the three collected data into one final d
 
 Finally the data will be used to train a model to predict the price of a CASIO Watch.
 
+![alt text](https://github.com/plctrung26/University-Projects/blob/main/images/project2.png?raw=true)
+
 ## Project 3: Real time inhouse temperature regression
 In reality, the temperature in a room or a house can be different from the outdoor temperature. This may bring up many benefits especially in indoor farming. We present a project to predict the inhouse temperature giving input datas. We performed data collection, data cleaning, data analysis and running a model to learn the features. And to be close to reality, we dicided to make the predictions real-time, which predict fast in only 1 or 2 seconds.
 
